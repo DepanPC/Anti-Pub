@@ -9,6 +9,8 @@
 Outil **gratuit** développé par **[Dépan'PC](https://depan-pc.fr)**.
 Il active un DNS filtrant qui bloque la majorité des publicités et des traceurs, partout sur tous les navigateurs. Aucune installation : un simple double-clic suffit, et tout est **réversible**.
 
+<img width="2400" height="1260" alt="DepanPC-AntiPub-banniere" src="https://github.com/user-attachments/assets/d701fc20-795a-4c0d-8978-f3ae6075cdb5" />
+
 ---
 
 ## 📥 Télécharger
