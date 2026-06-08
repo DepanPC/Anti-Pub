@@ -1,13 +1,13 @@
 # 🚫 Dépan'PC Anti-Pub
 
-> Bloque les **publicités et les traceurs** sur **tout votre PC** (tous les navigateurs et applications), en un clic. Gratuit.
+> Bloque les **publicités et les traceurs** sur **tout votre PC**, en un clic. Gratuit.
 
 ![Version](https://img.shields.io/badge/version-1.0-15392b)
 ![Plateforme](https://img.shields.io/badge/Windows-10%20%7C%2011-0d6efd)
 ![Licence](https://img.shields.io/badge/licence-gratuit%20(tous%20droits%20r%C3%A9serv%C3%A9s)-c77700)
 
 Outil **gratuit** développé par **[Dépan'PC](https://depan-pc.fr)**.
-Il active un DNS filtrant (AdGuard) qui bloque la majorité des publicités et des traceurs, partout sur votre ordinateur — pas seulement dans un navigateur. Aucune installation : un simple double-clic suffit, et tout est **réversible**.
+Il active un DNS filtrant qui bloque la majorité des publicités et des traceurs, partout sur tous les navigateurs. Aucune installation : un simple double-clic suffit, et tout est **réversible**.
 
 ---
 
